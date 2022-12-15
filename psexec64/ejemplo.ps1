@@ -1,0 +1,1 @@
+<# .\psexec64 \\(introducir ip) -u (usuario) -p (contraseña) (terminal a ejecutar) #>

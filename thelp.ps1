@@ -1,0 +1,5 @@
+Write-Output "TAMAB versión 2.0 Alpha"
+Write-Output "build 09/12/2022"
+Write-Output "Escriba .\pstools para acceder a las herramientas PSTools"
+Write-Output "Escriba .\rshell para acceder al sistema de conexión remota automatizado (x64)"
+Write-Output "Escriba .\rshell86 para acceder al sistema de conexión remota automatizado (x86)"
